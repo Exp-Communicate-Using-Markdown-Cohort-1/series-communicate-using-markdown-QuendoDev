@@ -6,3 +6,11 @@
 ###### Header 6
 
 ![Foto de GitHub](https://octodex.github.com/images/yaktocat.png)
+
+
+```java
+private int metodo (int parametro)
+{
+  return parametro;
+}
+```
