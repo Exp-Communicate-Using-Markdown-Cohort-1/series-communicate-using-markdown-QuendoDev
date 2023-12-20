@@ -14,3 +14,7 @@ private int metodo (int parametro)
   return parametro;
 }
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
